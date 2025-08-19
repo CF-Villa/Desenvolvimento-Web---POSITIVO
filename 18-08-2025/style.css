@@ -1,0 +1,32 @@
+div {
+  /*border: tamanho da borda, tipo de borda, cor da borda*/
+  border: 2px solid yellow;
+  padding: 10px;
+}
+
+p {
+  color: white;
+  font-family: cursive sans-serif;
+  letter-spacing: 3px;
+  text-align: justify;
+}
+
+/*seletor de classe é . */
+.orangefont {
+  color: orange;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*seletor de id é # */
+#seletor_id {
+  text-align: center;
+  font-size:15px;
+  padding-right: 60px;
+  font-family: cursive;
+}
+
+.div_id {
+  border: 1px solid white;
+  margin-left: 200px;
+  margin-right: 200px;
+}
