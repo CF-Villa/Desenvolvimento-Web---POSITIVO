@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(202, 202, 248);
+  font-family: cursive, sans-serif;
+  text-align: center;
+}
+
+.central{
+ text-align: center;
+}
+
+.menu{
+  border-width: 1.5px;
+  border-right-style: dashed;
+  border-left-style: dotted;
+  border-top-style: groove;
+  border-bottom-style: solid;
+  border-color: black;
+  border-radius: 20px;
+  padding: 10px 0px;
+}
+
+.menu-itens{
+ display: inline;
+ margin: 0% 2% 0% 2%;
+}
+
+
+#github-btn a{
+  background-color: rgb(96, 96, 231);
+  padding: 1%;
+  border-radius: 1.5rem;
+}
+
+#github-btn a{
+ color: black;
+}
+#github-btn a:hover{
+  background-color: red;
+  transition: 3s;
+  
+}
+
+td{
+  padding: 0.4rem;
+}
